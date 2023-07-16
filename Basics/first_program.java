@@ -1,1 +1,7 @@
+package com.yash;
 
+public class Java {
+    public static void main(String[] args) {
+        System.out.println("hello world");
+    }
+}
