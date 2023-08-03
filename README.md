@@ -7,9 +7,6 @@ Welcome to my Java Practice Repository! 🚀 Here, you'll find the code I've pra
 Java is a powerful and versatile programming language that has captivated me with its endless possibilities. Throughout my learning journey, I've been 
 dedicatedly working on different aspects of Java, from basic syntax to advanced concepts.
 
-<h3>Repository Structure</h3>
-"I will update it soon"
-
 <h3>How to Use</h3>
 
 Feel free to explore the folders and code files to see how I've practiced different Java concepts. 
